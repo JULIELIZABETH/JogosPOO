@@ -1,6 +1,6 @@
-### condicos das Aulas de P.O.O.
+### condigos das Aulas de P.O.O.
 
 
 Hello word ;
-Teste de Força ;
+Teste de ForÃ§a ;
 Corrida ;
